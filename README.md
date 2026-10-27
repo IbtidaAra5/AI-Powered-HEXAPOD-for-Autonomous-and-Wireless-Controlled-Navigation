@@ -9,7 +9,8 @@
 ![Control](https://img.shields.io/badge/Control-Bluetooth-blue?logo=bluetooth&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
-<img src="hexapod_spider_robot.jpeg" alt="NeuroHexa hexapod spider robot" width="520">
+<img width="899" height="785" alt="hexapod spider robot" src="https://github.com/user-attachments/assets/a1b0aada-cb61-4c26-904d-9b5b28507fef" />
+
 
 *Team Neuro-Hexa · EEE 2124 Electronics Laboratory · United International University · Spring 2025*
 
