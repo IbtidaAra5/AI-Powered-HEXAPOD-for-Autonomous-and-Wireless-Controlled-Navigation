@@ -1,2 +1,0 @@
-# AI-Powered-HEXAPOD-for-Autonomous-and-Wireless-Controlled-Navigation
-The AI-powered Spider Robot is a six-legged hexapod designed for autonomous and wireless-controlled operations.This project focuses on building a cost-effective, efficient, and intelligent robotic platform that can move autonomously, avoid obstacles, and maintain balance while also allowing manual control through wireless communication.
